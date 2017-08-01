@@ -1,0 +1,24 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install":"bower install",
+    "start":"python -m SimpleHTTPServer 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanweerhossain/project1.git"
+  },
+  "author": "Tanweer Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanweerhossain/project1/issues"
+  },
+  "homepage": "https://github.com/tanweerhossain/project1#readme"
+}
